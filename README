@@ -2,6 +2,10 @@ dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
 
+This Build
+-----------
+added the dmenu_run_history patch (https://tools.suckless.org/dmenu/scripts/dmenu_run_with_command_history/)
+added a gruvbox theme
 
 Requirements
 ------------
